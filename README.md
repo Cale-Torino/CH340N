@@ -1,5 +1,7 @@
 # CH340N
 
+[<img src="img/ch340n.JPG" width="500"/>](img/ch340n.JPG)
+
 The **CH340N** is a USB bus converter chip which converts USB to serial port or USB to printer port.
 
 This chip is a small smd 8-pin version from the **CH340** family of USB to serial port chips.
