@@ -27,3 +27,18 @@ Parts Used:
 You can get away with just 2x 100nf capacitors but there is no protection and it is wise to add the 2x resistors in series to the data pins and a 100nf capacitor in series with the *Reset* and *RTS* pins.
 
 
+## Notes
+
+The CH340C, CH340E and CH340B versions have a built-in clock generator, no external crystal required.
+
+See http://wch-ic.com/products/CH340.html.
+
+### Links
+- https://www.aliexpress.com/item/1005005933363878.html?spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007586669962.1005005933363878
+- https://www.eevblog.com/forum/projects/ch340-oscillator-question/
+- https://wch-ic.com/products/CH340.html
+
+
+
+
+
